@@ -11,6 +11,10 @@
 *.sln.docstates
 *.env
 
+.idea
+dist/
+node_modules/
+
 .claude
 claude
 /claude
